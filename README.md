@@ -1,4 +1,4 @@
 # DES and AES-128bit-Verilog
 
-* Contains DES-128 implementation in Verilog (All modes of Operation)
-* Added Modified AES (Dec '21)
+* Contains DES implementation in Verilog (All modes of Operation)
+* Added Modified AES-128 (Dec '21)
